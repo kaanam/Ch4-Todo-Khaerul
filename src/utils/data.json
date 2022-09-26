@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "task": "Khaerul minum kopi",
+    "complete": true
+  }, {
+    "id": 2,
+    "task": "Bareng ayank",
+    "complete": false
+  }, {
+    "id": 3,
+    "task": "Olahraga 10 menit",
+    "complete": false
+  }, {
+    "id": 4,
+    "task": "Sarapan sereal",
+    "complete": true
+  }, {
+    "id": 5,
+    "task": "Belanja harian",
+    "complete": true
+  }, {
+    "id": 6,
+    "task": "Ngeprint tugas",
+    "complete": true
+  }, {
+    "id": 7,
+    "task": "Bayar tagihan bulanan",
+    "complete": false
+  }, {
+    "id": 8,
+    "task": "Berangkat kuliah",
+    "complete": true
+  }, {
+    "id": 9,
+    "task": "Les bahasa Inggris",
+    "complete": false
+  }, {
+    "id": 10,
+    "task": "Cuci Mobil",
+    "complete": false
+  }, {
+    "id": 11,
+    "task": "Cuci Baju Sendiri",
+    "complete": false
+  }, {
+    "id": 12,
+    "task": "Apel Ke rumah Sabrina",
+    "complete": true
+  }]
